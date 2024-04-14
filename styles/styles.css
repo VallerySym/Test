@@ -199,7 +199,8 @@ body {
 
 .image_inner-length {
     top: 122px;
-    left: -26px;
+    right: 85%;
+    white-space: nowrap;
 }
 
 .image_inner-height {
