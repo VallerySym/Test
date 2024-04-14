@@ -196,8 +196,8 @@ body {
 }
 
 .image_inner-length {
-    top: 115px;
-    left: -6px;
+    top: 122px;
+    left: -26px;
 }
 
 .image_inner-height {
@@ -206,21 +206,22 @@ body {
 }
 
 .image_inner-width {
-    top: 115px;
+    top: 122px;
     left: 200px;
 }
 
 .image_inner-weight-box2 {
     top: 42px;
-    left: 140px;
+    left: 110px;
     background-color: #ffffff;
+    padding: 2px 4px 1px 28px;
 }
 
 .image_inner-weight-box2::before {
     content: "";
     position: absolute;
-    top: -4px;
-    left: -20px;
+    top: 0px;
+    left: 7px;
     width: 19px;
     height: 20px;
     background-image: url(../images/weight-icon.svg);
